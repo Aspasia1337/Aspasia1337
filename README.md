@@ -10,7 +10,7 @@ Reverse engineering — Windows internals, Android, game security.
 
 **[VAC-ModuleDumper](https://github.com/Aspasia1337/VAC-ModuleDumper)** — VAC module dumper and loader architecture
 
-**[IATResolution](https://github.com/Aspasia1337/IATResolution)** — How anti-cheat rebuilds its IAT at load time to hide API usage
+**[IATResolution](https://github.com/Aspasia1337/IATResolution)** — IAT reconstruction in modules streamed from server: how VAC resolves imports at runtime to hide API usage from static analysis
 
 # Kernel
 
@@ -21,3 +21,5 @@ Reverse engineering — Windows internals, Android, game security.
 # Tools
 
 **[yet-another-ida-rpc](https://github.com/Aspasia1337/yet-another-ida-rpc)** — Discord Rich Presence plugin for IDA Pro 9.x
+
+**[WG10B-Helper](https://github.com/Aspasia1337/WG10B-Helper)** — Helper library for the WG10B smartcard
