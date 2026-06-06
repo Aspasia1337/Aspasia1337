@@ -2,7 +2,7 @@
 
 > Reverse engineering — Windows internals, Android, game security.
 
-`C++` · `x64` · `Windows Kernel` · `IDA Pro` · `VAC`
+`C++` · `x64` · `Windows Kernel` · `Android` · `IDA Pro` · `Anti-Cheat`
 
 ---
 
