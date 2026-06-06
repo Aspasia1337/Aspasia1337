@@ -30,4 +30,10 @@
 
 ---
 
-Everything here is free to **clone, fork, and improve** — no strings attached. These projects are far from perfect and very much a work in progress, so any contribution, fix, or idea is genuinely appreciated.
+Everything here is free to **clone, fork, and improve** — no strings attached. I learned all of this from people who shared their work openly, so I try to do the same: if any of this helps you learn, build, or get unstuck, it has done its job. Contributions, fixes, and ideas are always welcome.
+
+### Thanks
+
+Built on the shoulders of the communities that taught me — this is my small way of giving back to them:
+
+**[UnknownCheats](https://www.unknowncheats.me)** · **[Guided Hacking](https://guidedhacking.com)** · **[secret.club](https://secret.club)** · **[Vergilius Project](https://www.vergiliusproject.com)**
