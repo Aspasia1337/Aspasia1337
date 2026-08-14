@@ -16,6 +16,8 @@
 
 **[IATResolution](https://github.com/Aspasia1337/IATResolution)** - IAT reconstruction in modules streamed from server: how VAC resolves imports at runtime to hide API usage from static analysis
 
+**[handle-hijacker](https://github.com/Aspasia1337/handle-hijacker)** - Windows process injection via handle hijacking: leveraging existing process handles to evade detection
+
 ### Kernel
 
 **[ring0-bouncer](https://github.com/Aspasia1337/ring0-bouncer)** - Kernel driver: process memory protection, handle hijack prevention, injection filtering
