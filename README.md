@@ -30,6 +30,10 @@
 
 **[WG10B-Helper](https://github.com/Aspasia1337/WG10B-Helper)** - Helper library for the WG10B smartcard
 
+### Linux / Setup
+
+**[arch-niri](https://github.com/Aspasia1337/arch-niri)** - My Arch Linux rig: niri scrollable-tiling Wayland setup plus AMD GPU passthrough (VFIO) for Windows VMs
+
 ---
 
 Everything here is free to **clone, fork, and improve** - no strings attached. I learned all of this from people who shared their work openly, so I try to do the same: if any of this helps you learn, build, or get unstuck, it has done its job. Contributions, fixes, and ideas are always welcome.
