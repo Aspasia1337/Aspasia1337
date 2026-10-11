@@ -1,12 +1,24 @@
+<div align="center">
+
 # Aspasia1337
 
-> Reverse engineering - Windows internals, Android, game security.
+**Reverse engineering - Windows internals, Android, game security.**
 
-`C++` · `x64` · `Windows Kernel` · `Android` · `IDA Pro` · `Anti-Cheat`
+Focus: VAC / anti-cheat internals · Windows kernel drivers · IAT and module-streaming research
+
+![C++](https://img.shields.io/badge/C%2B%2B-0d0a12?style=flat-square&logo=cplusplus&logoColor=ff7518)
+![x86-64](https://img.shields.io/badge/x86--64-0d0a12?style=flat-square&logoColor=ff7518)
+![Windows Kernel](https://img.shields.io/badge/Windows_Kernel-0d0a12?style=flat-square&logo=windows&logoColor=9b30ff)
+![Android](https://img.shields.io/badge/Android-0d0a12?style=flat-square&logo=android&logoColor=9dff00)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-0d0a12?style=flat-square&logoColor=ff7518)
+![Anti-Cheat](https://img.shields.io/badge/Anti--Cheat-0d0a12?style=flat-square&logoColor=9b30ff)
+
+</div>
 
 ---
 
 ### VAC / Anti-Cheat
+*Reverse engineering Valve Anti-Cheat and the internals around it.*
 
 **[Aspasia](https://github.com/Aspasia1337/Aspasia)** - CS2 reverse engineering and cheat prototyping framework
 
@@ -19,18 +31,21 @@
 **[handle-hijacker](https://github.com/Aspasia1337/handle-hijacker)** - Windows process injection via handle hijacking: leveraging existing process handles to evade detection
 
 ### Kernel
+*Ring-0 drivers for memory protection, telemetry and injection control.*
 
 **[ring0-bouncer](https://github.com/Aspasia1337/ring0-bouncer)** - Kernel driver: process memory protection, handle hijack prevention, injection filtering
 
 **[hypercall](https://github.com/Aspasia1337/hypercall)** - Windows kernel telemetry and communication layer
 
 ### Tools
+*Small utilities for the reverse-engineering workflow.*
 
 **[yet-another-ida-rpc](https://github.com/Aspasia1337/yet-another-ida-rpc)** - Discord Rich Presence plugin for IDA Pro 9.x
 
 **[WG10B-Helper](https://github.com/Aspasia1337/WG10B-Helper)** - Helper library for the WG10B smartcard
 
 ### Linux / Setup
+*The machine and dotfiles behind the work.*
 
 **[arch-niri](https://github.com/Aspasia1337/arch-niri)** - My Arch Linux rig: niri scrollable-tiling Wayland setup plus AMD GPU passthrough (VFIO) for Windows VMs
 
