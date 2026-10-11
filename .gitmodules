@@ -1,0 +1,3 @@
+[submodule "arch-niri"]
+	path = arch-niri
+	url = https://github.com/Aspasia1337/arch-niri.git
